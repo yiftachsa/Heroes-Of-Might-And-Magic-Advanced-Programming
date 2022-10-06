@@ -11,3 +11,8 @@ The Advanced Programming course goes over **C programming**, by focusing on **ab
 
 ## Heroes of-Might and Magic - C++
 A project that simulates the game "Heroes of Might and Magic" using CLI. The project is written in **C++** and it focuses on **Object-Oriented** principles, **generic programming**, **inheritance**, **polymorphism**, and **exception handling**.
+
+
+<p align="center">
+<img src="https://in.bgu.ac.il/marketing/DocLib/Pages/graphics/heb-en-arabic-logo-small.png">
+</p>
